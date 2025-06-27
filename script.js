@@ -1,6 +1,6 @@
 //your JS code here. If required.
 
-const form = document.getElementById("form");
+const form = document.getElementById("signup-form");
 
 form.addEventListener("submit", (e) => {
 	e.preventDefault();
